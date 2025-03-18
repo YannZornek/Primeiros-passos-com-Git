@@ -1,1 +1,3 @@
-Aqui está um texto para testamos pela segunda vez os conhecimentos sobre Git e GitHub
+Olá mundo.
+Olá universo.
+Olá planeta.
